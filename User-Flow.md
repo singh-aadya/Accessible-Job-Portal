@@ -1,36 +1,36 @@
 
-```markdown
+
 # **User Flow Diagram - Disability-Friendly Job Portal**
 
 ## **Main User Journey Flow**
 
 **1. Landing & Registration**
-```
+
 
 Homepage → Accessibility Options Selection → Sign Up Form → Profile Creation Wizard
 
-```
+
 
 2. Profile Setup
-```
+
 
 Personal Information → Disability Accommodation Preferences → Skills & Experience → Support Person Details (Optional)
 
-```
+
 
 3. Job Search Process
-```
+
 
 Dashboard → Search/Browse Jobs → Apply Accessibility Filters → View Job Details → Save/Apply Decision
 
-```
+
 
 4. Application Flow
-```
+
 
 Job Application → Pre-filled Form Review → Accommodation Requests → Submit → Confirmation
 
-```
+
 
 ---
 
