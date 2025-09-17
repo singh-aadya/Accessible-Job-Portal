@@ -80,6 +80,5 @@ Job Application → Pre-filled Form Review → Accommodation Requests → Submit
 **References**  
 [1](https://ijireeice.com/wp-content/uploads/2025/04/IJIREEICE.2025.13450.pdf)  
 [2](https://www.accessibility.com/blog/how-to-make-your-online-job-portal-more-accessible)
-```
 
----
+
